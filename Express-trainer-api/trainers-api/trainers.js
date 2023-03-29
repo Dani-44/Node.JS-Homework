@@ -22,7 +22,7 @@ export const getTrainersById = async (trainerId) => {
   const trainers = await getAllTrainers();
   const foundTrainer = trainers.find((trainer) => trainer.id === trainerId);
 
-  if (!foundTrainer) throw new Error("Trainer not Found");
+  if (!foundTrainer) throw new Error("Trainer not found!");
 
   return foundTrainer;
 };
