@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dc8b7b52-b1ef-4315-95fc-5366efb0620a",
+    "firstName": "Dani",
+    "lastName": "Kitancheva",
+    "email": "dkitancheva@yahoo.com",
+    "password": "$2a$08$94C8ID/sV2pOMFb/Z3B72OYOuNCkCPdXzTIiu/y1U72jEf64Uoz/.",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJkYzhiN2I1Mi1iMWVmLTQzMTUtOTVmYy01MzY2ZWZiMDYyMGEiLCJpYXQiOjE2ODAwMTQ1MzcsImV4cCI6MTY4MDYxOTMzN30.MgyvxGfqGHo-ic7aBH0Kkm3r-V7oL9Enw485Fyz-fT4"
+  }
+]

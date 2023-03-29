@@ -25,14 +25,5 @@
     "isCurrentlyTeaching": false,
     "timeEmployed": "1 year",
     "coursesFinished": 6
-  },
-  {
-    "id": "7ac79636-38a0-4dc7-9d02-cde6624dc798",
-    "firstName": "Bob",
-    "lastName": "Bobsky",
-    "email": "somemail@mail.com",
-    "isCurrentlyTeaching": false,
-    "timeEmployed": "3 years",
-    "coursesFinished": 2
   }
 ]
